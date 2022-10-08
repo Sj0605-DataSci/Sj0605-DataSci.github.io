@@ -42,9 +42,6 @@ For getting into Data, refresh your basics of maths and statistics, start with n
 - [Deep Learning Specialization (Coursera) by Andrew Ng (5 courses)](https://www.coursera.org/specializations/deep-learning)
 - [Sentdex's Deep Learning Playlist (YouTube)](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 
-#### Books
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, *O'Reilly Media*
-
 ## Web Development
 - [Django Full Stack Web Development Bootcamp (Udemy)](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
 - [Comprehensive FastAPI + PostgreSQL API Development course (freeCodeCamp)](https://www.youtube.com/watch?v=0sOvCWFmrtA)
