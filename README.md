@@ -3,7 +3,11 @@
 # Python Learning Resources
 Hey there! Here's a collection of resources to learn Python, Data Science and what not!, it contains some of my IIT content as well
 
+# My Advice:
+For getting into Data, refresh your basics of maths and statistics, start with numpy, pandas, matplotlib,seaborn, plotly for data manipulation,cleaning and visualisation, then learn about the ML models and pipelines and in the end go for deployment. After making basic projects go into depth and learn big data (hadoop, sparks)
 
+## IIT Madras Data Science Guide:
+- [Notes](https://theopennotesorg.web.app/simple)
 
 ## YouTube Channels
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
@@ -12,6 +16,7 @@ Hey there! Here's a collection of resources to learn Python, Data Science and wh
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [Telusko](https://www.youtube.com/c/Telusko)
 - [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
+- [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
 ## Premium Courses 
 - [Udemy's Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
@@ -30,15 +35,11 @@ Hey there! Here's a collection of resources to learn Python, Data Science and wh
 - [Elements of AI (Website)](https://www.elementsofai.com/)
 - [Sentdex's ML Playlist (YouTube)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [Tech with Tim's Video Course (YouTube)](https://www.youtube.com/watch?v=WFr2WgN9_xE)
+- [Coursera: Google Data Analytics with R](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-data-analytics_google_FTCOF_professional-certificates_arte-agency_desktop&utm_content=B2C&campaignid=17653505036&adgroupid=139157158700&device=c&keyword=google%20data%20analytics&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=608115588139&hide_mobile_promo)
 
 #### Deep Learning
 - [Deep Learning Specialization (Coursera) by Andrew Ng (5 courses)](https://www.coursera.org/specializations/deep-learning)
 - [Sentdex's Deep Learning Playlist (YouTube)](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
-
-#### YouTube Channels
-- [sentdex](https://www.youtube.com/c/sentdex)
-- [Tech with Tim](https://www.youtube.com/c/TechWithTim)
-- [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
 #### Books
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, *O'Reilly Media*
@@ -49,6 +50,7 @@ Hey there! Here's a collection of resources to learn Python, Data Science and wh
 - [freeCodeCamp's Django Course](https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/)
 - [Tech with Tim's Flask Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - [Krish Naik's MongoDB Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
+
 #### Books
 - Flask Web Development by Miguel Grinberg, *O'Reilly Media*
 
