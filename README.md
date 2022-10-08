@@ -22,6 +22,7 @@ For getting into Data, refresh your basics of maths and statistics, start with n
 - [Udemy's Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Coursera](https://www.coursera.org/courses?query=python)
 - [Codecademy](https://www.codecademy.com/learn/learn-python-3)
+- [100 Day's of Python](https://www.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview)
 
 ## YouTube Courses
 - [Programming with Mosh (6hr)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
@@ -53,6 +54,12 @@ For getting into Data, refresh your basics of maths and statistics, start with n
 
 #### Books
 - Flask Web Development by Miguel Grinberg, *O'Reilly Media*
+
+## Deployment
+- Streamlit(https://www.youtube.com/watch?v=_9WiB2PDO7k)
+- Flask Jinja(https://www.youtube.com/watch?v=75-oCKUx3oU)
+
+
 
 ## Miscellaneous
 - [Official Python Documentation](https://www.python.org/doc/)
