@@ -52,8 +52,9 @@ For getting into Data, refresh your basics of maths and statistics, start with n
 - [Tech with Tim's Flask Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - [Krish Naik's MongoDB Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 
-#### Books
-- Flask Web Development by Miguel Grinberg, *O'Reilly Media*
+#### Books And Blogs
+- [O Reilly](https://b-ok.asia/s/O%20Reilly)
+- [Jay Alammar](https://jalammar.github.io/)
 
 ## Deployment
 - [Streamlit](https://www.youtube.com/watch?v=_9WiB2PDO7k)
