@@ -56,8 +56,8 @@ For getting into Data, refresh your basics of maths and statistics, start with n
 - Flask Web Development by Miguel Grinberg, *O'Reilly Media*
 
 ## Deployment
-- Streamlit(https://www.youtube.com/watch?v=_9WiB2PDO7k)
-- Flask Jinja(https://www.youtube.com/watch?v=75-oCKUx3oU)
+- [Streamlit](https://www.youtube.com/watch?v=_9WiB2PDO7k)
+- [Flask Jinja](https://www.youtube.com/watch?v=75-oCKUx3oU)
 
 
 
