@@ -39,7 +39,8 @@ For getting into Data, refresh your basics of maths and statistics, start with n
 - [Coursera: Google Data Analytics with R](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-data-analytics_google_FTCOF_professional-certificates_arte-agency_desktop&utm_content=B2C&campaignid=17653505036&adgroupid=139157158700&device=c&keyword=google%20data%20analytics&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=608115588139&hide_mobile_promo)
 - [Campus X (youtube)](https://www.youtube.com/c/CampusX-official?utm_source=EJGixIgBCJiu2KjB4oSJEQ)
 
-
+### ML Project Book
+- [Projects for ML](https://github.com/Sj0605-DataSci/screeenshots/blob/main/Machine%20Learning%20Projects%20in%20Python-1.pdf.zip)
 
 
 #### Deep Learning
